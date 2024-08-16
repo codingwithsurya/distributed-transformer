@@ -1,4 +1,4 @@
-# distributed-transformer
+# Torch.distributed is all you need :)
 
 "Attention Is All You Need" implemented from scratch in PyTorch with support for distributed training, in both FSDP and DDP.
 
