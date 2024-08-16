@@ -1,6 +1,8 @@
-# Torch.distributed is all you need :)
+# distributed-transformer
 
-"Attention Is All You Need" implemented from scratch in PyTorch with support for distributed training, in both FSDP and DDP.
+"Attention Is All You Need" implemented from scratch in PyTorch with support for distributed training, in both FSDP and DDP. 
+
+**Torch.distributed is all you need :)**
 
 ## Instructions for Paperspace
 
